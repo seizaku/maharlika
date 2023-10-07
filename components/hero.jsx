@@ -1,5 +1,4 @@
 import HeroImage from "@/public/assets/images/hero5.jpg";
-import Clouds from "@/components/clouds";
 
 export const Hero = () => {
   return (

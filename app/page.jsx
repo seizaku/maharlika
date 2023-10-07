@@ -1,6 +1,5 @@
 import { Navbar } from "@/components/navbar";
 import { Hero } from "@/components/hero";
-import SvgMap from "@/components/svg/philippines-svg";
 import {
   Section,
   gridVariants,
